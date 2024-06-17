@@ -1,0 +1,1 @@
+http://localhost/php01/index06.php
